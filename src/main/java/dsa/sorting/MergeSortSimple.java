@@ -40,7 +40,7 @@ public class MergeSortSimple {
     }
 
     public static void main(String[] args) {
-        int[] arr = {6, 3, 9, 5, 2, 8};
+        int[] arr = {6, 3, 9,1};
         int n = arr.length;
 
         divide(arr, 0, n - 1);
